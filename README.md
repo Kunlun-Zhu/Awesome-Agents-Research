@@ -9,7 +9,8 @@
   - [Agent Planning](#agent-planning)
   - [Agent Memory](#agent-memory)
   - [Multi-agent Prompting & Mimicking](#multi-agent-prompting--mimicking)
-- [Evaluation Benchmarks](#evaluation-benchmarks)
+- [Evaluation Benchmarks](#Evaluation-Benchmarks)
+- [Welcome Contributions](#Welcome-Contributions)
 
 ## Introduction
 
@@ -66,6 +67,10 @@ Large Language Models (LLMs) and agents have the potential to transform various 
 - [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://arxiv.org/pdf/2308.10848v1.pdf)
 - [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/pdf/2307.14984.pdf)
 - [CGMI: Configurable General Multi-Agent Interaction Framework](https://arxiv.org/pdf/2308.12503.pdf)
-## evaluation-benchmarks
+## Evaluation-Benchmarks
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [ToolBench](https://github.com/openbmb/toolbench)
+
+## Welcome-Contributions
+We need your help to build a better paper list!
+You can fork this repo and make a pull request if you find more exciting papers!

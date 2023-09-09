@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Large Language Models (LLMs) and agents have the potential to transform various applications by enhancing accuracy, efficiency, and automation in problem-solving. This repository contains a curated list of resources related to LLMs, agent planning, memory, multi-agent prompting, mimicking, and evaluation benchmarks.
+LLM augmented autonomous agents have the potential to transform various applications by enhancing accuracy, efficiency, and automation in problem-solving. This repository contains a curated list of resources related to agent, agent planning, memory, multi-agent prompting, mimicking, and evaluation benchmarks.
 
 ## CodeBase
 - [Stable-alignment ***](http://github.com/agi-templar/Stable-Alignment)

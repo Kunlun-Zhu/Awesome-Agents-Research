@@ -37,6 +37,11 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992)
 - [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/pdf/2305.18323.pdf)
 - [Large Language Model as Autonomous Decision Maker](https://arxiv.org/abs/2308.12519)
+- [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/pdf/2304.11477.pdf)
+- [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf)
+- [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601.pdf)
+- [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091v3.pdf)
+- [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/pdf/2308.09687.pdf)
 
 ## Agent Memory for assisting the planning
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382.pdf)

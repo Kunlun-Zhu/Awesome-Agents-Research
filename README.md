@@ -43,11 +43,12 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/pdf/2305.04091v3.pdf)
 - [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/pdf/2308.09687.pdf)
 
-## Agent Memory for assisting the planning
+## Agent Memory and Single Agent
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/pdf/2302.11382.pdf)
 - [TPTU: Task Planning and Tool Usage of Large Language Model-based AI Agents](https://arxiv.org/abs/2308.03427)
 - [LARGE LANGUAGE MODEL AS AUTONOMOUS DECISION MAKER](https://arxiv.org/pdf/2308.12519.pdf)
 - [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf)
+- [ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models](https://arxiv.org/abs/2309.00986)
 
 ## Multi-agent prompting & mimicking
 - [Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback](https://arxiv.org/pdf/2305.10142.pdf)

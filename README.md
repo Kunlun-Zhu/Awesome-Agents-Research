@@ -38,6 +38,7 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [Light](https://github.com/facebookresearch/LIGHT/tree/main)
 - [AutoAgents](https://github.com/LinkSoul-AI/AutoAgents)
 - [SuperAGI](https://github.com/TransformerOptimus/SuperAGI)
+- [AI-waves:Agents](https://github.com/aiwaves-cn/agents)
 
 ## Agent Planning
 - [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992)

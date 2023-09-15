@@ -6,6 +6,7 @@
 - [Introduction](#introduction)
 - [Repositories](#repositories)
 - [Papers](#papers)
+  - [Survey Paper](#agent-survery)
   - [Agent Planning](#agent-planning)
   - [Agent Memory](#agent-memory)
   - [Multi-agent Prompting & Mimicking](#multi-agent-prompting--mimicking)
@@ -15,6 +16,11 @@
 ## Introduction
 
 LLM augmented autonomous agents have the potential to transform various applications by enhancing accuracy, efficiency, and automation in problem-solving. This repository contains a curated list of resources related to agent, agent planning, memory, multi-agent prompting, mimicking, and evaluation benchmarks.
+
+## Agent Survery
+- [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
+- [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)
+- [Lilian Wang's Blog](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ## CodeBase
 - [Stable-alignment ***](http://github.com/agi-templar/Stable-Alignment)

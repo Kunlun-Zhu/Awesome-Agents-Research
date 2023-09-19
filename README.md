@@ -80,6 +80,7 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents](https://arxiv.org/pdf/2308.10848v1.pdf)
 - [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/pdf/2307.14984.pdf)
 - [CGMI: Configurable General Multi-Agent Interaction Framework](https://arxiv.org/pdf/2308.12503.pdf)
+- [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
 ## Evaluation-Benchmarks
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [ToolBench](https://github.com/openbmb/toolbench)

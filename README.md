@@ -56,6 +56,9 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [LARGE LANGUAGE MODEL AS AUTONOMOUS DECISION MAKER](https://arxiv.org/pdf/2308.12519.pdf)
 - [Cognitive Architectures for Language Agents](https://arxiv.org/pdf/2309.02427.pdf)
 - [ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models](https://arxiv.org/abs/2309.00986)
+- [SUSPICION-AGENT : PLAYING IMPERFECT INFORMATION GAMES WITH THEORY OF MIND AWARE GPT4](https://arxiv.org/pdf/2309.17277.pdf)
+- [Reason for Future, Act for Now: A Principled Framework for Autonomous LLM Agents with Provable Sample Efficiency](https://arxiv.org/pdf/2309.17382.pdf)
+- [TORA: A TOOL-INTEGRATED REASONING AGENT FOR MATHEMATICAL PROBLEM SOLVING](https://arxiv.org/pdf/2309.17452.pdf)
 
 ## Multi-agent prompting & mimicking
 - [Improving Language Model Negotiation with Self-Play and In-Context Learning from AI Feedback](https://arxiv.org/pdf/2305.10142.pdf)

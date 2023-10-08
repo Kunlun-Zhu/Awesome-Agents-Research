@@ -84,9 +84,11 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [S3: Social-network Simulation System with Large Language Model-Empowered Agents](https://arxiv.org/pdf/2307.14984.pdf)
 - [CGMI: Configurable General Multi-Agent Interaction Framework](https://arxiv.org/pdf/2308.12503.pdf)
 - [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
+- [BALANCING AUTONOMY AND ALIGNMENT: A MULTI-DIMENSIONAL TAXONOMY FOR AUTONOMOUS LLM-POWERED MULTI-AGENT ARCHITECTURES](https://browse.arxiv.org/pdf/2310.03659.pdf)
 ## Evaluation-Benchmarks
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [ToolBench](https://github.com/openbmb/toolbench)
+- [MLAgentBench](https://github.com/snap-stanford/MLAgentBench)
 
 ## Welcome-Contributions
 We need your help to build a better paper list!

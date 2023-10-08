@@ -85,6 +85,8 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [CGMI: Configurable General Multi-Agent Interaction Framework](https://arxiv.org/pdf/2308.12503.pdf)
 - [MINDAGENT: EMERGENT GAMING INTERACTION](https://arxiv.org/pdf/2309.09971.pdf)
 - [BALANCING AUTONOMY AND ALIGNMENT: A MULTI-DIMENSIONAL TAXONOMY FOR AUTONOMOUS LLM-POWERED MULTI-AGENT ARCHITECTURES](https://browse.arxiv.org/pdf/2310.03659.pdf)
+- [DYNAMIC LLM-AGENT NETWORK: AN LLM-AGENT COLLABORATION FRAMEWORK WITH AGENT TEAM OPTIMIZATION](https://browse.arxiv.org/pdf/2310.02170.pdf)
+- [EXPLORING COLLABORATION MECHANISMS FOR LLM AGENTS: A SOCIAL PSYCHOLOGY VIEW](https://browse.arxiv.org/pdf/2310.02124.pdf)
 ## Evaluation-Benchmarks
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [ToolBench](https://github.com/openbmb/toolbench)

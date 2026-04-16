@@ -87,6 +87,7 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [BALANCING AUTONOMY AND ALIGNMENT: A MULTI-DIMENSIONAL TAXONOMY FOR AUTONOMOUS LLM-POWERED MULTI-AGENT ARCHITECTURES](https://browse.arxiv.org/pdf/2310.03659.pdf)
 - [DYNAMIC LLM-AGENT NETWORK: AN LLM-AGENT COLLABORATION FRAMEWORK WITH AGENT TEAM OPTIMIZATION](https://browse.arxiv.org/pdf/2310.02170.pdf)
 - [EXPLORING COLLABORATION MECHANISMS FOR LLM AGENTS: A SOCIAL PSYCHOLOGY VIEW](https://browse.arxiv.org/pdf/2310.02124.pdf)
+- [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658)
 ## Evaluation-Benchmarks
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [ToolBench](https://github.com/openbmb/toolbench)

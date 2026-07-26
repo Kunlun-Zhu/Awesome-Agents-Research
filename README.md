@@ -91,6 +91,7 @@ LLM augmented autonomous agents have the potential to transform various applicat
 - [AgentBench](https://github.com/THUDM/AgentBench)
 - [ToolBench](https://github.com/openbmb/toolbench)
 - [MLAgentBench](https://github.com/snap-stanford/MLAgentBench)
+- [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) ([Code](https://github.com/TIGER-AI-Lab/ClawBench), [Project](https://claw-bench.com/))
 
 ## Welcome-Contributions
 We need your help to build a better paper list!

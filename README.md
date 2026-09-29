@@ -20,6 +20,7 @@ LLM augmented autonomous agents have the potential to transform various applicat
 ## Agent Survery
 - [The Rise and Potential of Large Language Model Based Agents: A Survey](https://arxiv.org/pdf/2309.07864.pdf)
 - [A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/pdf/2308.11432.pdf)
+- [Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem](https://arxiv.org/abs/2609.30216) - Surveys 2,170 public Jev projects, including agent routing and interface workflows, and analyzes early growth, application domains, and decision-use patterns.
 - [Lilian Wang's Blog](https://lilianweng.github.io/posts/2023-06-23-agent/)
 
 ## CodeBase
